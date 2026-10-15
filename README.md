@@ -1,2 +1,2 @@
-im practing python by making mini projects
+im practicing python by making mini projects
 By Harsh Pal
